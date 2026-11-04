@@ -65,7 +65,7 @@ More projects and practical implementations will be added as I progress.
 I believe in continuous learning, collaboration, and developing technology skills through practical experience.
 
 - **GitHub:** You're already here!
-- **LinkedIn:** [Add your LinkedIn profile link here]
+- **LinkedIn:** https://www.linkedin.com/in/zunaira-shah-845a45405/
 
 ---
 
